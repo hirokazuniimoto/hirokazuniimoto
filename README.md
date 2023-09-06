@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=hirokazuniimoto&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hirokazuniimoto&show_icons=true&theme=radical)
 
 
