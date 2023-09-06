@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-https://github-profile-trophy.vercel.app/?username=hirokazuniimoto&theme=tokyonight
+[![trophy]([https://github-profile-trophy.vercel.app/?username=ryo-ma](https://github-profile-trophy.vercel.app/?username=hirokazuniimoto&theme=tokyonight)https://github-profile-trophy.vercel.app/?username=hirokazuniimoto&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
